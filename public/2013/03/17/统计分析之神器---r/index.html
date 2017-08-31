@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.26" />
+
+  <title>统计分析之神器---R &middot; 高等统计初学者</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+<a href="#menu" id="menuLink" class="menu-link">
+  
+  <span></span>
+</a>
+<div id="menu">
+
+  
+
+  <div class="pure-menu">
+    <ul class="pure-menu-list">
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/about/">关于</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/post/">博客</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/en/vitae/">简历</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/">主页</a>
+      
+        </li>
+      
+    </ul>
+  </div>
+
+  <div class="pure-menu social">
+  <ul class="pure-menu-list">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://linkedin.com/in/zhiqiang-cao-745546105" target="_blank"><i class="fa fa-linkedin-square fa-fw"></i>LinkedIn</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/Zhiqiangcao" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  </ul>
+</div>
+
+
+  <div>
+  <div class="small-print">
+    <small>&copy; 2012-2017. All rights reserved.</small>
+  </div>
+  <div class="small-print">
+    <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
+    <small>Theme&nbsp;<a href="https://github.com/yoshiharuyamashita/blackburn" target="_blank">Blackburn</a></small>
+  </div>
+</div>
+
+</div>
+
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>统计分析之神器---R</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>2013/03/17</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <p>去年在人大参加统计学论坛，吴喜之老师建议我们将R作为统计学习的平台。吴老的学识和人品我们都非常佩服，他是最早将R引进国内的人之一。如今有很多能做统计分析的软件，如SPSS,SAS,MATLAB,STATA等，为什么吴老强烈建议我们学R，用R呢？首先我们来看R能干嘛。</p>
+
+<ol>
+<li>R能唱歌</li>
+</ol>
+
+<p>require(tuneR) <br>
+Wobj &lt;-bind(sine(440, bit = 16), sine(220, bit = 16)) <br>
+play(Wobj)</p>
+
+<ol>
+<li>R能跳舞</li>
+</ol>
+
+<p>require(animation)   #此包还有很多好玩的flash <br>
+boot.iid(main =c(&ldquo;&rdquo;, &ldquo;&rdquo;))</p>
+
+<ol>
+<li>R能发微博</li>
+</ol>
+
+<p>require(Rweibo) <br>
+res8 &lt;-statuses.update(roauth, status = &ldquo;你好啊*!@#$&amp;=+&ldquo;)  #发微博 <br>
+res2 &lt;-statuses.friends_timeline(roauth, count = 5) <br>
+res2[[1]]  #查看自己及关注对象的微博</p>
+
+<ol>
+<li>R能当google地图用</li>
+</ol>
+
+<p>require(ggmap)  <br>
+require(mapproj) <br>
+map &lt;-get_map(location = &lsquo;Beijing&rsquo;, zoom = 10, maptype = &lsquo;roadmap&rsquo;) <br>
+ggmap(map)   #查看北京市交通图  <br>
+mapdist(&lsquo;BeijingNormal University&rsquo;,&lsquo;Beijing Institute of Technology &lsquo;, &lsquo;driving&rsquo;) <br> #查看我们去北理上课坐车要多久 <br>
+from                     to      m    km    miles seconds  <br>
+Beijing NormalUniversity Beijing Institute of Technology 7358 7.358 4.572261  915 <br></p>
+
+<p>minutes     hours <br>
+15.25 0.2541667</p>
+
+<ol>
+<li>R能中文分词</li>
+</ol>
+
+<p>require(Rwordseg)  <br>
+teststring1&lt;-&ldquo;钓鱼岛是中国的小日本别妄想了&rdquo;   #这是我们要分词的语句 <br>
+segmentCN(teststring1)</p>
+
+<p>[1] &ldquo;钓鱼岛&rdquo; &ldquo;是&rdquo;     &ldquo;中国&rdquo;   &ldquo;的&rdquo;     &ldquo;小&rdquo;     &ldquo;日本&rdquo;   &ldquo;别&rdquo;     &ldquo;妄想&rdquo;   &ldquo;了&rdquo;</p>
+
+<p>R还能做很多其他好玩的事···</p>
+
+<p>R语言最初由新西兰奥克兰大学统计系的Robert Gentleman和RossIhaka合作编写，他们的名字都以R开头，所以将此语言命名为R。R的前身是S，S语言是一门用于数据分析和图示的高层语言。我们进入到R主页的时候，看到图形上面有个标题“The R Project for Statistical Computing”，所以R是一门用于统计计算和作图的语言。R能做很多统计计算，R里面专门作图的包(ggplot)非常强大。R的应用范围涵盖了数据挖掘、机器学习、计量经济学、实证金融学、统计遗传学、自然语言处理、心理计量学和空间统计学诸多领域。</p>
+
+<p>如今R在CARN上的包有4000多个，有人写出的R包没有放在CARN上，放在自己的博客主页上。还有一些人写书，把里面的程序用R写了一个包，放在CRAN上，例如MASS，alr3，TSA等包。R是开源的，免费的，而且统计模块齐全，所以备受学术界的青睐。开源的精神是“共享，互助，奋进”，你可以查看R包里面的函数源代码。如果觉得里面的函数不好用，你可以修改或者重新写函数打包放上去。</p>
+
+<p>R是高级语言，不适合做加加减减这样的底层工作。如果你的R代码有很多for循环，尤其是嵌套循环，它运行起来会比你想象中的慢。曾经在网上看到一个笑话：如果你的R代码中循环的行数超过整段代码的一半，只有以下三种可能，</p>
+
+<ol>
+<li>你是故意的；</li>
+<li>你在糟蹋R；</li>
+<li>请参照第一条。</li>
+</ol>
+
+<p>那么怎样解决R运行循环慢的问题呢？不用担心，R core们早就注意到了这个问题。R如今有很多接口，R可以与MySQL等数据库软件连接起来，通过接口也可以执行C,C++语言程序(如果有大量循环的工作可以写个C程序，再用R来执行并做其他的工作)，还可以连接Latex,Sweave,fortran等。R的原始编辑器长得很丑，不能自动高亮。这时你可以配置自己喜欢的编辑器，R_WinEdt,Emacs,RStudio都是常用的编辑器。据说万能的Emacs是R的最终归宿，去年用过一段时间的Emacs，感觉还是不习惯，用键盘操作的命令太多，如今那些命令语法已忘光。后来转投RStudio，真心觉得不错。</p>
+
+<p>1997年中期R核心团队成立，每年R都至少有两个版本更新。R也有其刊物“R News”，创办于2001年，自2009年起，“R News”将更名为“The R Journal”。如果你在R-bloggers上用邮箱注册一个用户名，每天R-bloggers都会给你发一封邮件，里面的文章就是来自The R Journal上，那上面的文章是全世界各地的人最新用R做出了一些有意思的事。R发展很快，在2012年卖出的相关R书籍超过了SAS（当然SAS也是非常强大的统计软件，里面有一大批优秀的统计师和程序员）。程序员杂志近年来将全世界所有的编程语言所受欢迎程度，使用范围广度排名，C是排名第一，R排在十几位，是统计类语言排名最高的。从2004年起至今（2005年除外），R团队每年都会举办一次useR!会议,过去已经在奥地利、美国和德国举办了4次会议，每年参会人数和演讲篇数都在增多。</p>
+
+<p><a href="https://yihui.name">谢益辉</a>（animation,knirt包的作者，他在CRAN上贡献了好些包）是useR中国区主席，在他的倡导和组织下，2008年在人民大学成功举办了第一届中国R语言会议。以后每年都举办一次，分为北京会场和上海会场，分别在人大和华东师大举办。第六届中国R语言会议5月份在人大即将举行，具体报名时间敬请关注统计之都网站。统计之都网站是谢益辉06年创办的，分为cos主站和cos论坛。这是一个非常专业，正直，规范的网站，在里面下资料不需要积分，更不需要其他条件。里面讨论的是统计相关内容和R有关的问题，有很多本领域的学术大牛和业界精英在里面游荡。R的口号是“Use R Everywhere!”</p>
+
+<p>皈依R派有两年了，说来惭愧，本人的R水平还是半吊子。R博大精深，前路漫漫···</p>
+
+<p>在统计之都(ps：这上面有一些很好的文章，比如“统计词话”“正态分布的前身今世”“相亲几次才能找到靠谱的对象”等）上看到这篇推荐的文章，确实不禁让人感叹“计算机系的在学统计，统计系的在学数学，数学系的在学编程”。看来在如今激烈的竞争社会，交叉，跨界和混搭才能立于东方不败之地。</p>
+
+<p>Life should have fun!最后放一张图，娱乐一下。
+<img src="https://github.com/Zhiqiangcao/Images_website/raw/master/img/rfun.jpeg" alt="rfun" /></p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="/2013/02/28/%E5%A5%B3%E5%A3%AB%E5%93%81%E8%8C%B6/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="/2013/02/28/%E5%A5%B3%E5%A3%AB%E5%93%81%E8%8C%B6/">女士品茶</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="/2013/04/06/%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%9C%B0%E6%88%98%E6%96%97/">猪一样地战斗</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="/2013/04/06/%E7%8C%AA%E4%B8%80%E6%A0%B7%E5%9C%B0%E6%88%98%E6%96%97/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'Zhiqiangcaogithub';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+</div>
+
+</div>
+</div>
+<script src="/js/ui.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'Your Google Analytics tracking ID', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+</html>
+

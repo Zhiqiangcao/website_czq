@@ -1,0 +1,70 @@
+baseurl = "/"
+relativeurls = false
+languageCode = "zh-CN"
+title = "高等统计初学者"
+theme = "blackburn"
+author = "曹志强"
+hasCJKLanguage = true
+enableEmoji = true
+preserveTaxonomyNames = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# footnotereturnlinkcontents = "↩"
+copyright = "&copy; 2012-2017. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "曹志强的个人博客"
+  # brand = "![czq Logo](/img/czqr.png)"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "Zhiqiangcaogithub"
+  # CSS name for highlight.js
+  highlightjsVersion = "9.11.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "github"
+  dateFormat = "2006/01/02"
+
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "主页"
+  #  pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+  #  identifier = "主页"
+    url = "/"
+  [[menu.main]]
+    name = "关于"
+  #  pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 1
+  #  identifier = "关于"
+    url = "/about/"
+  [[menu.main]]
+    name = "博客"
+  #  pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+  #  identifier = "博客"
+    url = "/post/"
+  
+   [[menu.main]]
+    name = "简历"
+  #  pre = "<i class='fa fa-list fa-user'></i>"
+    weight = 3
+  #  identifier = "博客"
+    url = "/en/vitae/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  github = "Zhiqiangcao"
+  linkedin = "zhiqiang-cao-745546105"
