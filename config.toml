@@ -10,6 +10,7 @@ preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # footnotereturnlinkcontents = "↩"
 copyright = "&copy; 2013-2017. All rights reserved."
+disqusShortname = "zhiqiang-cao"
 canonifyurls = true
 paginate = 10
 
@@ -26,7 +27,8 @@ paginate = 10
   subtitle = "曹志强的个人博客"
   # brand = "![czq Logo](/img/czqr.png)"
   googleAnalytics = "UA-105880936-1"
-  disqusShortname = "zhiqiang-cao"
+  disqusURL: "httpS://zhiqiang-cao.disqus.com"
+  
   # CSS name for highlight.js
   highlightjsVersion = "9.11.0"
   highlightjsCDN = "//cdn.bootcss.com"
