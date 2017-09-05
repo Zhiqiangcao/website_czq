@@ -5,4 +5,5 @@ slug: ''
 ---
 
 This blog is built on [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io/)!
+blogdown is really powerful!
 
