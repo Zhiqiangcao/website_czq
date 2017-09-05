@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://statczq.netlify.com/"
 relativeurls = false
 languageCode = "zh-CN"
 title = "高等统计初学者"
@@ -25,7 +25,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "曹志强的个人博客"
   # brand = "![czq Logo](/img/czqr.png)"
-  googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-105880936-1"
   disqus = "Zhiqiangcaogithub"
   # CSS name for highlight.js
   highlightjsVersion = "9.11.0"
