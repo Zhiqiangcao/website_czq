@@ -24,7 +24,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "曹志强的个人博客"
-  brand = "![czq Logo](/img/czqr.png)"
+  # brand = "![czq Logo](/img/czqr.png)"
   googleAnalytics = "UA-105880936-1"
   disqus = "zhiqiang-cao"
   
