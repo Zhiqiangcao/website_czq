@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://statczq.rbind.io"
 relativeurls = false
 languageCode = "zh-CN"
 title = "高等统计初学者"
