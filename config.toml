@@ -1,4 +1,4 @@
-baseurl = "http://statczq.netlify.com/"
+baseurl = "/"
 relativeurls = false
 languageCode = "zh-CN"
 title = "高等统计初学者"
