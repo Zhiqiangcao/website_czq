@@ -28,7 +28,7 @@ Survival analysis, Medical statistics, Time series analysis, Data mining (concen
 - 2008 ~ 2012, Bachelor of Statistics, School of Mathematics and Statistics, Chongqing University
 
 ## Honors & Awards
-
+- Best Oral Presentation Award: "Tests for Zero Inflation in Count Data with Measurement Error in Covariates". 19th International Conference on Statistics and Analysis, Singapore, 2017
 - Best teaching assistant award, HKUST, 2016 
 - Excellent teaching assistant award, Beijing Normal University, 2015 
 - The Second-class Scholarship, Beijing Normal University. 2014 
@@ -37,7 +37,7 @@ Survival analysis, Medical statistics, Time series analysis, Data mining (concen
 - National Scholarship, Ministry of Education of P.R.C. 2009 
 - Various scholarships and awards from Chongqing University. (2008-2012)
 
-## Publications
+## Publications and Presentations
 
 ### In Chinese
 
@@ -56,6 +56,9 @@ Papers:
 
 1. Hui Li, Zhiqiang Cao, Guosheng Yin. (2017). Varying-Association Copula Models for Multivariate Survival Data. Under review.
 1. M.Y.Wong, Yingsi Yang, Zhiqiang Cao, Vivian Y.W.Guo, Cindy L.K.Lam,  Carlos K.H.Wong. (2017). Effects of the health-related quality of life on health service utilization in patients with colorectal neoplasms: Modelling overdispersion in count data. Under review.
+
+### Presentations
+1. Man-Yu Wong, Siyu Zhou, Zhiqiang Cao. Tests for Zero Inflation in Count Data with Measurement Error in Covariates. Present at 19th International Conference on Statistics and Analysis,Singapore,SG,2017/09/11 
 
 ## Project Experience
 1. Regression model based on survival data study, National Natural Science Foun- dation, Beijing Normal University. 2013.9-2014.10.
