@@ -58,7 +58,7 @@ Papers:
 1. M.Y.Wong, Yingsi Yang, Zhiqiang Cao, Vivian Y.W.Guo, Cindy L.K.Lam,  Carlos K.H.Wong. (2017). Effects of the health-related quality of life on health service utilization in patients with colorectal neoplasms: Modelling overdispersion in count data. Under review.
 
 ### Presentations
-1. Man-Yu Wong, Siyu Zhou, Zhiqiang Cao. Tests for Zero Inflation in Count Data with Measurement Error in Covariates. Present at 19th International Conference on Statistics and Analysis,Singapore,SG,2017/09/11 
+1. Man-Yu Wong, Siyu Zhou, Zhiqiang Cao. Tests for Zero Inflation in Count Data with Measurement Error in Covariates. Present at 19th International Conference on Statistics and Analysis, Singapore, SG, 2017/09/11 
 
 ## Project Experience
 1. Regression model based on survival data study, National Natural Science Foun- dation, Beijing Normal University. 2013.9-2014.10.
