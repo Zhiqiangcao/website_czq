@@ -24,9 +24,9 @@ Survival analysis, Time series analysis, statistical learning, measurement error
 ## Education Background
 
 - 2015 ~ Present, PhD in Statistics, Department of Mathematics, The Hong Kong University of Science and Technology.
-Supervisor: Prof. Man-Yu Wong.
+Supervisor: Prof. [Man-Yu Wong](http://www.math.ust.hk/people/faculty/profile/mamywong/).
 - 2012 ~ 2015, Master of Probability Theory and Mathematical Statistics, School of Mathematical Science, Beijing Normal University.
-Supervisor: Dr. Hui Li.
+Supervisor: Dr. [Hui Li](http://stat.bnu.edu.cn/zwjl/134698.html).
 - 2008 ~ 2012, Bachelor of Statistics, School of Mathematics and Statistics, Chongqing University.
 
 ## Honors & Awards
@@ -42,17 +42,6 @@ Supervisor: Dr. Hui Li.
 
 ## Publications and Presentations
 
-### In Chinese
-
-Papers:
-
-1. Zhiqiang Cao, Hui Li, Xingwei Tong. (2015). A Long Memory Regression Model of IF1407 Contract and Investment Strategy. _Journal of Beijing Normal University_, Natural Science, 51(4):348-353.
-1. Zhiqiang Cao, Hui Li. (2015). Analysis of Gold Price Fluctuations Based on Intervention Model. _Journal of Mathematics in Practice and Theory_, 45(15):146-153.
-1. Zhiqiang Cao, Yang Wang, Wei Li.(2015). Aalen Model and its Application in Medical Research. _Chinese Journal of Health Statistics_, 32(2):335-337.
-1. Zhiqiang Cao, Yang Wang, Wei Li.(2015). Comparison of Semi-parametric and Nonparametric Additive Hazards Models: with Tamiflu and Traditional Chinese Medicine to Treat H1N1 Flu Effect for Example. _Chinese Journal of Health Statistics_, 32(1):22-25.
-1. Jing Lu, Qin Liang, Zhiqiang Cao.(2012). Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009. _Insurance Studies_, (5):23-35.
-1. Zhiqiang Cao, Hong Liu, Qin Liang.(2012). An Empirical Study of the Life Insurance Market Efficiency based on CCA-Three-Stage DEA Model. Application of statistical models: The 2011 national undergraduate statistical modeling contest winners selected papers. 437-472. Beijing: _China Statistics Press_.
-
 ### In English
 
 Papers:
@@ -64,6 +53,17 @@ Papers:
 1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. _Proceedings of 33th International Workshop on Statistical Modelling_, 2,37-41. 
 
 1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85.
+
+### In Chinese
+
+Papers:
+
+1. Zhiqiang Cao, Hui Li, Xingwei Tong. (2015). A Long Memory Regression Model of IF1407 Contract and Investment Strategy. _Journal of Beijing Normal University_, Natural Science, 51(4):348-353.
+1. Zhiqiang Cao, Hui Li. (2015). Analysis of Gold Price Fluctuations Based on Intervention Model. _Journal of Mathematics in Practice and Theory_, 45(15):146-153.
+1. Zhiqiang Cao, Yang Wang, Wei Li.(2015). Aalen Model and its Application in Medical Research. _Chinese Journal of Health Statistics_, 32(2):335-337.
+1. Zhiqiang Cao, Yang Wang, Wei Li.(2015). Comparison of Semi-parametric and Nonparametric Additive Hazards Models: with Tamiflu and Traditional Chinese Medicine to Treat H1N1 Flu Effect for Example. _Chinese Journal of Health Statistics_, 32(1):22-25.
+1. Jing Lu, Qin Liang, Zhiqiang Cao.(2012). Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009. _Insurance Studies_, (5):23-35.
+1. Zhiqiang Cao, Hong Liu, Qin Liang.(2012). An Empirical Study of the Life Insurance Market Efficiency based on CCA-Three-Stage DEA Model. Application of statistical models: The 2011 national undergraduate statistical modeling contest winners selected papers. 437-472. Beijing: _China Statistics Press_.
 
 
 ### Presentations
@@ -117,4 +117,4 @@ Papers:
 ## Computer Skills
 
 1. Programing: R(excellent), Matlab(good), C(good), SAS(basic), Python(basic). 
-1. Others: Office software, LATEX, Markdown.
+1. Others: Office software, Latex, Markdown.
