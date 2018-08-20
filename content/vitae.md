@@ -57,13 +57,13 @@ Papers:
 
 Papers:
 
-1. M.Y.Wong, Yingsi Yang, Zhiqiang Cao, Vivian Y.W.Guo, Cindy L.K.Lam, Carlos K.H.Wong. (2018). Effects of health-related quality of life on health service utilization in patients with colorectal neoplasms. European Journal of Cancer Care, in press.
+1. M.Y.Wong, Yingsi Yang, Zhiqiang Cao, Vivian Y.W.Guo, Cindy L.K.Lam, Carlos K.H.Wong. (2018). Effects of health-related quality of life on health service utilization in patients with colorectal neoplasms. _European Journal of Cancer Care_, in press.
 
-1. Hui Li, Zhiqiang Cao, Guosheng Yin. (2018). Varying-Association Copula Models for Multivariate Survival Data. Canadian Journal of Statistics, in press. 
+1. Hui Li, Zhiqiang Cao, Guosheng Yin. (2018). Varying-Association Copula Models for Multivariate Survival Data. _Canadian Journal of Statistics_, in press. 
 
-1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. Proceedings of 33th International Workshop on Statistical Modelling, 2,37-41. 
+1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. _Proceedings of 33th International Workshop on Statistical Modelling_, 2,37-41. 
 
-1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. Computer Methods and Programs in Biomedicine, 163,79-85.
+1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85.
 
 
 ### Presentations
@@ -109,6 +109,10 @@ Papers:
 1. The 7th R Conference of China, Beijing. 2014.4-2014.5
  - Participating in production meeting manual and analyzing data about participants.
  - Meeting on-site service.
+ 
+## R packages
+1. [iapvbs](https://github.com/Zhiqiangcao/iapvbs):Individual Age at Peak Velocity Based on SITAR.
+1. [gmusim](https://github.com/Zhiqiangcao/gmusim):Growth Modelling using a Shape Invariant Model with Random Effects.
 
 ## Computer Skills
 
