@@ -67,7 +67,7 @@ Papers:
 
 
 ### Presentations
-1. Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. The 33rd International Workshop on Statistical Modelling 2018, Bristol, UK, 2018.07.
+1. Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. The 33rd International Workshop on Statistical Modelling 2018, Bristol, UK, 2018.07
 1. Partial Varying-coefficient Regression and Autoregressive Model for Nonlinear Time Series. 38th International Symposium on Forecasting, Boulder, Colorado, USA, 2018.06
 1. Functional-Coefficient Autoregressive and Linear Regression Mixed Model. PhD seminar of Department of Mathematics, HKUST, Hong Kong, 2018.04
 1. Tests for Zero Inflation in Count Data with Measurement Error in Covariates. The ICSA 2017: 19th International Conference on Statistics and Analysis, Singapore, 2017.09
@@ -75,9 +75,9 @@ Papers:
 1. The introduction of AFT model. Medical Research Statistical Center, Fu Wai Hospital, Beijing, 2013.11
 
 ## Project Experience
-1. Regression model based on survival data study, National Natural Science Foun- dation, Beijing Normal University. 2013.9-2014.10.
+1. Regression model based on survival data study, National Natural Science Foun- dation, Beijing Normal University. 2013.09-2014.10
  - Involved in programming and doing numerical simulation.
-1. Structure and efficiency of Chinese insurance market study,The Second Chongqing University College Students’ Scientific Research Training Program, Chongqing University. 2010.7-2011.7.
+1. Structure and efficiency of Chinese insurance market study,The Second Chongqing University College Students’ Scientific Research Training Program, Chongqing University. 2010.07-2011.07
  - Responsible for building Three-stage DEA model and analyzing data.
  - Involved in writing the paper: Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009.
 
@@ -85,13 +85,13 @@ Papers:
 
 ### Internship
 
-1. School of Public health, HKU, 2016.10-2017.4 (Part-time)
+1. School of Public health, HKU, 2016.10-2017.04 (Part-time)
  - Taking part in building models and analysis of Diabetes project. 
-1. R&D Centre, Nanjing mint co., LTD, Nanjing, 2014.11-2015.4 (Full-time)
+1. R&D Centre, Nanjing mint co., LTD, Nanjing, 2014.11-2015.04 (Full-time)
  - Taking part in building models and writing programs for feature extraction and    
    visual inspection of tax invoice production.
 1. Medical Research Statistical Center, Fu Wai Hospital, Beijing.    
-   2013.7-2013.11 (Full-time)
+   2013.07-2013.11 (Full-time)
  - Using additive hazards model to analyze the Treatment effect of H1N1 Flu Between
    Traditional Chinese Medicine and Tamiflu.
  - Taking part in PURE (Prescriptive Urban & Rural Epidemiology Study) project,    
@@ -101,12 +101,12 @@ Papers:
 
 1. HKUST, Hong Kong. 2016.2-Present
  - Survival analysis, Statistical inference, Regression analysis.
-1. Beijing Normal University, Beijing. 2013.9-2014.6
+1. Beijing Normal University, Beijing. 2013.09-2014.06
  - Time series analysis, Probability theory and mathematical statistics.
 
 ### Vounteer
 
-1. The 7th R Conference of China, Beijing. 2014.4-2014.5
+1. The 7th R Conference of China, Beijing. 2014.04-2014.05
  - Participating in production meeting manual and analyzing data about participants.
  - Meeting on-site service.
  
