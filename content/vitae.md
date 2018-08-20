@@ -19,7 +19,7 @@ Email: zcaoze@connect.ust.hk; Address: G/F,57i,Tseng Lan Shue, Sai Kung, New Ter
 
 ## Research Interests
 
-Survival analysis, Time series analysis, statistical learning, measurement error models.
+Survival analysis, Time series analysis, Statistical learning, Measurement error models.
 
 ## Education Background
 
