@@ -9,7 +9,7 @@ enableEmoji = true
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # footnotereturnlinkcontents = "↩"
-copyright = "&copy; 2013-2017. All rights reserved."
+copyright = "&copy; 2013-2019. All rights reserved."
 canonifyurls = true
 paginate = 10
 
