@@ -99,7 +99,7 @@ Papers:
 
 ### Teaching Assistant
 
-1. HKUST, Hong Kong. 2016.2-Present
+1. HKUST, Hong Kong. 2016.2-2018.12
  - Survival analysis, Statistical inference, Regression analysis.
 1. Beijing Normal University, Beijing. 2013.09-2014.06
  - Time series analysis, Probability theory and mathematical statistics.
