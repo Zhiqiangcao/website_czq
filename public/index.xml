@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2013-2019. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>入职记</title>
+      <link>/2019/06/16/%E5%85%A5%E8%81%8C%E8%AE%B0/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/16/%E5%85%A5%E8%81%8C%E8%AE%B0/</guid>
+      <description>来松山湖一周多了，从看房，租房，到公司培训，总体过的还算顺利。 明天就要正式到部门报到了，说实话，没有特别的激动，总感觉还有些准备没做好。 我租</description>
+    </item>
     
     <item>
       <title>终点起点</title>
@@ -288,7 +297,7 @@
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>我在湖南郴州长大，在重庆（本科），北京（硕士），香港（博士）念书，目前还没有毕业。高考志愿随机地选了统计学之后，就一口气读到了博士阶段，但还</description>
+      <description>我在湖南郴州长大，在重庆（本科），北京（硕士），香港（博士）念书，目前就职于华为，担任研究工程师，主要做一些算法和建模方面的工作。高考志愿随</description>
     </item>
     
     <item>

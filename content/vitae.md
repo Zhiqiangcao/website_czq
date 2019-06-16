@@ -30,7 +30,9 @@ Supervisor: Dr. [Hui Li](http://stat.bnu.edu.cn/zwjl/134698.html).
 - 2008.09 ~ 2012.07, Bachelor of Statistics, School of Mathematics and Statistics, Chongqing University.
 
 ## Honors & Awards
-- Research Travel Grant, HKUST, 2017,2018.
+- Epsilon Fund Award, HKUST, 2019
+- The George K Lee Foundation Scholarships, HKUST, 2019
+- Research Travel Grant (three times), HKUST, 2017-2018.
 - Best Oral Presentation Award: "Tests for Zero Inflation in Count Data with Measurement Error in Covariates". 19th International Conference on Statistics and Analysis, Singapore, 2017.
 - Din-Yu Hsieh Teaching award, HKUST, 2016. 
 - Excellent teaching assistant award, Beijing Normal University, 2015. 
@@ -53,6 +55,14 @@ Papers:
 1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-Coefficient Autoregressive and Linear Regression Mixed Model for Nonlinear Time Series. _Proceedings of 33th International Workshop on Statistical Modelling_, 2,37-41. [PDF] (https://people.maths.bris.ac.uk/~sw15190/IWSM2018/IWSM33-2.pdf)
 
 1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85. URL:<https://www.sciencedirect.com/science/article/pii/S0169260717313895>
+
+1. Zhiqiang Cao, Man-Yu Wong. (2019). Approximate Maximum Likelihood Estimation for Logistic Model with Covariate Measurement Error, under review.
+
+1. Zhiqiang Cao, Man-Yu Wong. (2019). Approximate Profile Likelihood Estimation for Cox Model with Covariate Measurement Error, under review.
+
+1. Zhiqiang Cao, Man-Yu Wong. (2019). Reduced correlation coefficient estimation, under review.
+
+1. Zhiqiang Cao, Hui Li, Guosheng Yin. (2019). Linear Regression and Varying-Coefficient Autoregressive Mixed Model, manuscript.
 
 ### In Chinese
 
