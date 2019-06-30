@@ -23,7 +23,7 @@ Survival analysis, Time series analysis, Statistical learning, Measurement error
 
 ## Education Background
 
-- 2015.08 ~ Present, PhD in Statistics, Department of Mathematics, The Hong Kong University of Science and Technology.
+- 2015.09 ~ 2019.05, PhD in Statistics, Department of Mathematics, The Hong Kong University of Science and Technology.
 Supervisor: Prof. [Man-Yu Wong](http://www.math.ust.hk/people/faculty/profile/mamywong/).
 - 2012.09 ~ 2015.07, Master of Probability Theory and Mathematical Statistics, School of Mathematical Science, Beijing Normal University.
 Supervisor: Dr. [Hui Li](http://stat.bnu.edu.cn/zwjl/134698.html).
