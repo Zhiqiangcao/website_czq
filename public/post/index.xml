@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2013-2019. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>效率</title>
+      <link>/2019/09/08/%E6%95%88%E7%8E%87/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/08/%E6%95%88%E7%8E%87/</guid>
+      <description>最近的工作效率不是很高，一个典型的表现就是每日计划以及周计划常常需要加班才能够完成。当然，在完成计划的过程中有些不确定的因素会影响工作进程，</description>
+    </item>
     
     <item>
       <title>缘分</title>
