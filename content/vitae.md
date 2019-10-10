@@ -14,7 +14,7 @@ Address: G/F,57i,Tseng Lanshue Village, Sai Kung, New Territories.
 -->
 </p>
 
-Email: zcaoze@connect.ust.hk; Address: G/F,57i,Tseng Lan Shue, Sai Kung, New Territories; Personal website: <https://statczq.rbind.io/>.
+Email: zcaoze@connect.ust.hk; Personal website: <https://statczq.rbind.io/>.
 
 
 ## Research Interests
