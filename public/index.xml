@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2013-2019. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>折腾</title>
+      <link>/2019/12/01/%E6%8A%98%E8%85%BE/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/01/%E6%8A%98%E8%85%BE/</guid>
+      <description>来HW工作快半年了，近一个月来感觉很累。项目进展不大，且攻关在即，几乎每天加班到10点之后才回来。有几个周末都主动去加班，基本上没有多少个人</description>
+    </item>
     
     <item>
       <title>讲座</title>
