@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2013-2019. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新时代</title>
+      <link>/2020/01/01/%E6%96%B0%E6%97%B6%E4%BB%A3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/01/%E6%96%B0%E6%97%B6%E4%BB%A3/</guid>
+      <description>2019还在昨日，今天就2020了。在这新一代的10年开始之际，不免让人回想过去的 一年。还记得2018-2019年的跨年是在写代码，昨晚的跨</description>
+    </item>
     
     <item>
       <title>折腾</title>

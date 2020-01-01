@@ -30,6 +30,7 @@ Supervisor: Dr. [Hui Li](http://stat.bnu.edu.cn/zwjl/134698.html).
 - 2008.09 ~ 2012.07, Bachelor of Statistics, School of Mathematics and Statistics, Chongqing University.
 
 ## Honors & Awards
+- Global Development Challenge (AI theme), Huawei Technologies Co. Ltd, 2019
 - Epsilon Fund Award, HKUST, 2019
 - The George K Lee Foundation Scholarships, HKUST, 2019
 - Research Travel Grant (three times), HKUST, 2017-2018.
