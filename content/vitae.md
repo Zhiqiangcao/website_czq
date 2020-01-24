@@ -30,7 +30,7 @@ Supervisor: Dr. [Hui Li](http://stat.bnu.edu.cn/zwjl/134698.html).
 - 2008.09 ~ 2012.07, Bachelor of Statistics, School of Mathematics and Statistics, Chongqing University.
 
 ## Honors & Awards
-- The third price of Global Development Challenge (AI theme), Huawei Technologies Co. Ltd, 2019
+- The third prize of Global Development Challenge (AI theme), Huawei Technologies Co. Ltd, 2019
 - Epsilon Fund Award, HKUST, 2019
 - The George K Lee Foundation Scholarships, HKUST, 2019
 - Research Travel Grant (three times), HKUST, 2017-2018.
@@ -93,6 +93,11 @@ Papers:
  - Involved in writing the paper: Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009.
 
 ## Work Experience
+
+### Full-time Job
+
+1. Research Engineer, Algorithm and Technology Development Department, Huawei Technologies Co. Ltd, Dongguan, 2019.06-Present
+ -Taking part in AutoML group, mainly analyzing data and building models for relevant business of GTS
 
 ### Internship
 
