@@ -97,7 +97,7 @@ Papers:
 ### Full-time Job
 
 1. Research Engineer, Algorithm and Technology Development Department, Huawei Technologies Co. Ltd, Dongguan, 2019.06-Present
- -Taking part in AutoML group, mainly analyzing data and building models for relevant business of GTS
+ - Taking part in AutoML group, mainly analyzing data and building models for relevant business of GTS
 
 ### Internship
 
