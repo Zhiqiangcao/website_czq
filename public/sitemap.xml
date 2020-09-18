@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2020/08/30/%E7%A6%BB%E8%81%8C%E8%AE%B0/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/08/02/%E5%88%9D%E5%BF%83/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -446,7 +451,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -462,7 +467,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
