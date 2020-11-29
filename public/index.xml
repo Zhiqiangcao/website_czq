@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2013-2019. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新的开始</title>
+      <link>/2020/11/29/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/11/29/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</guid>
+      <description>最近变懒了，所以博客都已经长草三个月。从HW离职，到入职新学校快两个月了，不得不感叹时间飞逝。回想这三个月来，还是发生了不少事，值得记录一下</description>
+    </item>
     
     <item>
       <title>离职记</title>
@@ -450,7 +459,7 @@
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>我在湖南郴州长大，在重庆（本科），北京（硕士），香港（博士）念书，目前就职于华为，担任研究工程师，主要做一些算法和建模方面的工作。高考志愿随</description>
+      <description>我在湖南郴州长大，在重庆（本科），北京（硕士），香港（博士）念书，目前就职于深技大(https://www.sztu.edu.cn/)。作为</description>
     </item>
     
     <item>
