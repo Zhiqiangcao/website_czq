@@ -57,7 +57,7 @@ Papers:
 
 1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85. URL:<https://www.sciencedirect.com/science/article/pii/S0169260717313895>
 
-1. Zhiqiang Cao, Man-Yu Wong. (2020). Approximate Maximum Likelihood Estimation for Logistic Model with Covariate Measurement Error. _Biometrical Journal_, in press. URL:<https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000024>
+1. Zhiqiang Cao, Man-Yu Wong. (2021). Approximate Maximum Likelihood Estimation for Logistic Model with Covariate Measurement Error. _Biometrical Journal_, 63(1), 27-45. URL:<https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000024>
 
 1. Zhiqiang Cao, Man-Yu Wong. (2020). Approximate Profile Likelihood Estimation for Cox Model with Covariate Measurement Error, under review.
 
