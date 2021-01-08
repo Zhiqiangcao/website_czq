@@ -54,11 +54,11 @@ Papers:
 
 1. Hui Li, Zhiqiang Cao, Guosheng Yin. (2018). Varying-association copula models for multivariate survival data. _Canadian Journal of Statistics_, 46(4), 556-576. URL:<https://onlinelibrary.wiley.com/doi/10.1002/cjs.11474>  
 
+1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85. URL:<https://www.sciencedirect.com/science/article/pii/S0169260717313895>
+
 1. M.Y.Wong, Yingsi Yang, Zhiqiang Cao, Vivian Y.W.Guo, Cindy L.K.Lam, Carlos K.H.Wong. (2018). Effects of health-related quality of life on health service utilization in patients with colorectal neoplasms. _European Journal of Cancer Care_, 27(6),e12926. URL:<https://onlinelibrary.wiley.com/doi/10.1111/ecc.12926>
 
 1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-coefficient autoregressive and linear regression mixed model for nonlinear time series. _Proceedings of 33th International Workshop on Statistical Modelling_, 2,37-41. [PDF] (https://people.maths.bris.ac.uk/~sw15190/IWSM2018/IWSM33-2.pdf)
-
-1. Zhiqiang Cao, L.L.Hui, M.Y.Wong. (2018). New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITAR model. _Computer Methods and Programs in Biomedicine_, 163,79-85. URL:<https://www.sciencedirect.com/science/article/pii/S0169260717313895>
 
 1. Zhiqiang Cao, Man-Yu Wong. (2020). Approximate profile likelihood estimation for Cox model with covariate measurement error, revision.
 
