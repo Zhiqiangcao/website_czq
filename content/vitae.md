@@ -60,11 +60,12 @@ Papers:
 
 1. Zhiqiang Cao, Hui Li, M.Y.Wong. (2018). Functional-coefficient autoregressive and linear regression mixed model for nonlinear time series. _Proceedings of 33th International Workshop on Statistical Modelling_, 2,37-41. [PDF] (https://people.maths.bris.ac.uk/~sw15190/IWSM2018/IWSM33-2.pdf)
 
+1. Zhiqiang Cao, Man-Yu Wong. (2020). Moment estimation method of parameters in additive measurement error model, _Computer Methods and Programs in Biomedicine_, in press
+
 1. Zhiqiang Cao, Man-Yu Wong. (2020). Approximate profile likelihood estimation for Cox model with covariate measurement error, revision.
 
 1. Zhiqiang Cao, Man-Yu Wong. (2020). Reduced correlation coefficient estimation, under review.
 
-1. Zhiqiang Cao, Man-Yu Wong. (2020). Moment estimation method of parameters in additive measurement error model, under review.
 
 1. Zhiqiang Cao, Hui Li. (2021) Varying-association copula models for marginal additive hazard distribution, under review.
 
