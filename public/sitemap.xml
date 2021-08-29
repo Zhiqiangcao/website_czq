@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2021/08/29/%E6%88%91%E4%BB%AC%E9%83%BD%E8%A6%81%E5%90%91%E5%89%8D%E7%9C%8B/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/08/13/%E6%98%8F%E6%9A%97/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2021/07/30/%E6%9A%91%E5%81%87/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url>
@@ -486,7 +496,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -502,7 +512,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
